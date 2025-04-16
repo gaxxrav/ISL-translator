@@ -21,10 +21,6 @@ Indian Sign Language Translator is software that converts Indian Sign Language (
 - **NLP Model:** For interpreting signed phrases into valid text.
 - **Text-to-Speech:** For audio output of recognized signs.
 
-## Repository Structure
-
-![Repository Structure](https://github.com/princeo741/ViTA-for-Indian-Sign-Language/assets/113790710/86ce014c-637d-4cfe-9cef-ba53574e08a0)
-
 ## How to Use
 
 1. **Clone the Repository:**
