@@ -25,8 +25,8 @@ Indian Sign Language Translator is software that converts Indian Sign Language (
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/princeo741/ViTA-for-Indian-Sign-Language.git
-    cd ViTA-for-Indian-Sign-Language
+    git clone https://github.com/g-mav/ISL-translator
+    cd ISL-translator
     ```
 
 2. **Install Dependencies:**
