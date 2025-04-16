@@ -1,15 +1,8 @@
-# ViTA for Indian Sign Language
+# Indian Sign Language Translator
 
 A system designed to convert Indian Sign Language into text and speech.
 
-ViTA for Indian Sign Language is software that converts Indian Sign Language (ISL) into text and audio. This project aims to bridge the communication gap for ISL users by providing a seamless translation of sign language into spoken and written forms. The software can translate signs into three languages: English, Hindi, and Kannada.
-
-## DEMO
-
-### Project Demo
-### **Click on the image below to watch demo**
-[![Click here to watch demo](https://img.youtube.com/vi/xAFgURwEC0E/0.jpg)](https://www.youtube.com/watch?v=xAFgURwEC0E)
-
+Indian Sign Language Translator is software that converts Indian Sign Language (ISL) into text and audio. This project aims to bridge the communication gap for ISL users by providing a seamless translation of sign language into spoken and written forms. The software can translate signs into three languages: English, Hindi, and Kannada.
 
 ## Features
 
