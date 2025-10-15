@@ -1,3 +1,5 @@
+![ISL Translator Architecture](https://github.com/gaxxrav/ISL-translator/blob/main/isldiagram.png?raw=true)
+
 # System Architecture and Data Flow
 
 This diagram illustrates the **architecture and data flow** of a microservice-based machine learning system that processes images or video frames and returns classification results via an API.
