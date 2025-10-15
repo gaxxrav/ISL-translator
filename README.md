@@ -1,4 +1,4 @@
-![ISL Translator Architecture](https://github.com/gaxxrav/ISL-translator/blob/main/isldiagram.png?raw=true)
+![ISL Translator Architecture]([https://github.com/gaxxrav/ISL-translator/blob/main/isldiagram.png?raw=true](https://github.com/gaxxrav/ISL-translator/blob/main/isldiagram.png))
 
 # System Architecture and Data Flow
 
